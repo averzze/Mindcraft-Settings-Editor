@@ -69,11 +69,10 @@ Manually editing the `settings.js` file for MindCraft can be error-prone, especi
     ```
     Ensure `mindcraft_icon.ico` is in the same directory as `settings_editor.py` if running from source for the icon to appear.
 
-### 2. Using Pre-built Executable (If Provided)
-
-*   (TODO: Add instructions here if you plan to release pre-built executables, e.g., via GitHub Releases.)
+### 2. Using Pre-built Executable
 *   Download the executable for your operating system from the [Releases page](https://github.com/averzze/Mindcraft-Settings-Editor/releases).
-*   Run the downloaded file. No installation is typically required for a PyInstaller one-file bundle.
+*   Run the downloaded file. No installation is required.
+*   Note: This is windows only (potential for Wine usage)
 
 ### Using the Editor
 
