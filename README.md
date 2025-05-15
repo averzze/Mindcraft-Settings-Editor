@@ -108,7 +108,7 @@ If you want to create a standalone executable:
     *(Note: For macOS, you might need to use `--onedir` and create an app bundle for proper icon handling, or use tools like `py2app`.)*
 
 ## Known Isuues:
-1. Light theme setting description not working
+1. Light theme setting description not working (✅)
 ## Contributing
 
 Contributions are welcome! If you'd like to contribute, please:
